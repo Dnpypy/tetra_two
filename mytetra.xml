@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="15430148620wpr2aq1qn" name="Linux">
+   <node crypt="" id="1543089197kho49tpy9i" name="Linux console">
+    <recordtable>
+     <record id="1543024616t3df24xd07" name="command" author="" url="" tags="" ctime="20181124225317" dir="15430246165p0at97li0" file="text.html"/>
+     <record id="1543190571h8ez64jupr" name="Скачивание Распаковка Установка Python Linux " author="" url="https://habr.com/post/203516/" tags="" ctime="20181126030251" dir="15431905716bgmfhxvgc" file="text.html"/>
+     <record id="1543194358a8rllzr9mn" name="Переход в папки и запуск программы" author="" url="" tags="" ctime="20181126040558" dir="1543194358ue2yvhsutl" file="text.html"/>
+     <record id="1543196487kgzpgsozd7" name="Установка *.tar.gz" author="" url="https://jeka.by/ask/122/kak-ustanovit.deb/#tar-gz" tags="" ctime="20181126044127" dir="1543196487ez842qplxp" file="text.html"/>
+     <record id="15432946011gm10xssc9" name="Обновление системы Manjaro" author="" url="" tags="" ctime="20181127075641" dir="15432946016idw1q9r7q" file="text.html"/>
+     <record id="15433518828dks3x5ilm" name="Запись образа на флешку" author="" url="" tags="" ctime="20181127235122" dir="1543351882gtuoqzzvpz" file="text.html"/>
+     <record id="1543355959oc1rw6nk39" name="Найти пакет Manjaro Linux" author="" url="" tags="" ctime="20181128005919" dir="15433559591g21zveu78" file="text.html"/>
+     <record id="15433569815ib6djm36h" name="ОШибки при установки Python Linux" author="" url="" tags="" ctime="20181128011621" dir="1543356981j59erct1qj" file="text.html"/>
+     <record id="1543367492ugebc8fuj3" name="Ошибка" author="" url="" tags="" ctime="20181128041132" dir="1543367492uvnkos1sz6" file="text.html"/>
+     <record id="1543376147ivbuczkyfa" name="Архивация файлов" author="" url="https://losst.ru/arhivatsiya-v-linux#Zip" tags="" ctime="20181128063547" dir="1543376147vt3jypegpj" file="text.html"/>
+     <record id="1543380716vsjghzm3zh" name="Установка sublime Manjaro/Arch" author="" url="https://onfor.info/arch-kak-ustanovit-sublimetext/" tags="" ctime="20181128075156" dir="1543380716w6g71mv7td" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543098536c6yjpggfi5" name="редактор nano">
+    <recordtable>
+     <record id="1543026263l8m0v9yat8" name="Команды" author="" url="" tags="" ctime="20181125012901" dir="154302626370uce1k9e1" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15430985733rusehnhld" name="внешние команды окна">
+    <recordtable>
+     <record id="1543087871gri8g907ab" name="1" author="" url="" tags="" ctime="20181125012935" dir="1543087871noljkr2sri" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543198715ynwcej7vc4" name="Установка программ"/>
+   <node crypt="" id="1543283918bxucjo9obq" name="Создание симлинк">
+    <recordtable>
+     <record id="1543283923jlf9fw2uyu" name="симлинк ссылка" author="" url="https://www.shellhacks.com/ru/symlink-create-symbolic-link-linux/" tags="" ctime="20181127045843" dir="15432839236rpg3p4sdg" file="text.html"/>
+     <record id="1543353325ttckenls01" name="ОбЪяснение симлинк команда ln" author="" url="" tags="" ctime="20181128001525" dir="1543353325cgjifx9jly" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543359524o8p0usvmd3" name="Гайд установки pip python">
+    <recordtable>
+     <record id="1543359536qlmpwfe74s" name="Подробное описание" author="" url="" tags="" ctime="20181128015856" dir="15433595363fc9vmh78v" file="text.html"/>
+     <record id="1543362011wzkgylvk0r" name="Вопрос на форуме" author="" url="https://stackoverflow.com/questions/53509945/pip-is-configured-with-locations-that-require-tls-sslmanjaro-linux" tags="" ctime="20181128024011" dir="15433620119lvu35cqia" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="15430247808qhyn58q89" name="Python">
+   <node crypt="" id="15430880878843p4vuic" name="OOP"/>
+   <node crypt="" id="1543098751wpfylhtpyu" name="Функции">
+    <recordtable>
+     <record id="154309879622mky1jorc" name="Обозначение функции" author="" url="" tags="" ctime="20181125013316" dir="154309879630qiyrz7ge" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15432830315idje3p77q" name="PIP">
+    <recordtable>
+     <record id="1543283046dx3jgsvc7m" name="команды pip" author="" url="https://pythonworld.ru/osnovy/pip.html" tags="" ctime="20181127044406" dir="1543283046bzapi48nbw" file="text.html"/>
+     <record id="15432831457z5i3mojn2" name="Установка пакетов с помощью pip" author="" url="" tags="" ctime="20181127044545" dir="1543283145rsl6ewpn1j" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1543087980k8x5g3382s" name="Git">
+   <recordtable>
+    <record id="1543087995wxw8gkwp0u" name="1" author="" url="" tags="" ctime="20181124223315" dir="1543087995xg0alwe45w" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="154308800276e7xz3bjo" name="1">
+    <recordtable>
+     <record id="15430880061s6ibbgus3" name="1" author="" url="" tags="" ctime="20181124223326" dir="1543088006x6hrte7w5q" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1543088129bai4mckc8d" name="Site">
+   <node crypt="" id="15430882110hmhy45z0l" name="1"/>
+   <node crypt="" id="1543088239yvrnclat3c" name="Репозиторий сат">
+    <recordtable>
+     <record id="15430257324smd282hbl" name="Сайт" author="" url="" tags="" ctime="20181124223719" dir="1543025732j55g5hkrg7" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1543098627uyt562zjjn" name="Django">
+   <recordtable>
+    <record id="1543099817360pjeqdsg" name="https://www.djangoproject.com/" author="" url="" tags="" ctime="20181125015017" dir="1543099817zj0pviujv6" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1543163183ux11dd2rzt" name="последовательное изучение">
+    <recordtable>
+     <record id="1543163197ada7nh4iby" name="Порядок бесплатных курсов джанго" author="" url="" tags="" ctime="20181125192637" dir="1543163197ayvbz85hf4" file="text.html"/>
+     <record id="1543163519wa0e9eue3d" name="Платные курсы" author="" url="" tags="" ctime="20181125193159" dir="1543163519zwpn8bb953" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543168837ejesohv5yo" name="Контролер">
+    <recordtable>
+     <record id="1543169003rpr6qhfjl8" name="Что происходит на странице(управление)" author="" url="" tags="" ctime="20181125210323" dir="1543169003brgt8hpwpu" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543168844sezbyt1edu" name="Модели">
+    <recordtable>
+     <record id="1543168761t61zq21mc4" name="Принцип создание модели" author="" url="" tags="" ctime="20181125210052" dir="15431687616qy53310dh" file="text.html"/>
+     <record id="1543164082dl2rnsebqe" name="Модели" author="" url="" tags="" ctime="20181125210104" dir="1543164082wt9b71fiod" file="text.html"/>
+     <record id="1543101078vvaf2lxaam" name="MVC " author="" url="" tags="" ctime="20181125210115" dir="1543101078m7qzjtot3h" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543168897en67e7rtrb" name="Обозначение">
+    <recordtable>
+     <record id="15430986455x4cwkt1fh" name="++++++Обозначения++++++" author="" url="" tags="" ctime="20181125210156" dir="1543098645whip2o81or" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543169823nxxuhurkb9" name="Представление">
+    <recordtable>
+     <record id="1543169827bfjcrz9rey" name="1" author="" url="" tags="" ctime="20181125211707" dir="1543169827nge0abu1b6" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543179189con9f4jntf" name="Методика MTV (или MVC)">
+    <recordtable>
+     <record id="1543179447bjqdz18sqf" name="Методика MTV (или MVC)" author="" url="" tags="" ctime="20181125235727" dir="15431794477teyu0ph26" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543184329an8tp3rnnh" name="Файлы">
+    <recordtable>
+     <record id="1543184344ad1fhgvkzk" name="Файлы проекта Django" author="" url="" tags="" ctime="20181126011904" dir="15431843443c8b5dvc0y" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15432044103l0l9v1vbn" name="Установка проекта">
+    <recordtable>
+     <record id="1543204447m0rp3r1198" name="виртуальное окружение " author="" url="https://groups.google.com/forum/#!category-topic/spb-tut/pycharm---%D1%81%D1%80%D0%B5%D0%B4%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8/6odRUxHRWS0" tags="" ctime="20181126065407" dir="15432044479mvbz8wlds" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="154317103737yuz8b5u9" name="HTML">
+   <recordtable>
+    <record id="15431710544hmumuliu8" name="Простой шаблон HTML" author="" url="" tags="" ctime="20181125213734" dir="1543171054aub8orwfcq" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15431921622s54k8dp5h" name="Pycharm">
+   <recordtable>
+    <record id="1543192182c4okf55vmw" name="Ошибки в программах Pycharm версия 2018.3" author="" url="" tags="" ctime="20181126032942" dir="1543192182wxa11uqujb" file="text.html"/>
+    <record id="1543198725jl940lv24h" name="Не запускается Pycharm 3.0.3  linux Manjaro" author="" url="https://stackoverflow.com/questions/13439665/how-to-install-java-on-arch-linux" tags="" ctime="20181126053645" dir="1543198725qz72rllfwy" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="15432030471mh36a621i" name="Распорядок папок">
+    <recordtable>
+     <record id="1543203052x2wlm4t9rf" name="распорядок папок pycharm" author="" url="" tags="" ctime="20181126063052" dir="1543203052babtdijzk1" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543203503i16ppabvd6" name="Горячие клавиши">
+    <recordtable>
+     <record id="1543203515jmdjpg1fnu" name="Горячие клавиши" author="" url="" tags="" ctime="20181126063835" dir="1543203515h0j358txj7" file="text.html">
+      <files>
+       <file id="1543203558av4tyq1sn0" fileName="pucharm-key-1.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>

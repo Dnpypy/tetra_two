@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">В таком случае начните проект сначала. И желательно не в PyCharm, а с консоли( или терминала ). Там весь процесс виден как на ладони. Это в PyCharm просто проект создали и все готово. А если научитесь делать через консоль-терминал, тогда сразу поймете, что не так. Процесс такой( у меня во всяком случае, пишу на примере mac os):</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Все в терминале:</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">1. Создаете папку для виртуального окружения  - <span style=" font-family:'FreeMono'; color:#6a1009;">$ mkdir &quot;имя папки&quot;</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">2. Заходите в папку - $ <span style=" font-family:'FreeMono'; color:#6a1009;">cd &quot;имя папки&quot;</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">3. Прописываете $ <span style=" font-family:'FreeMono'; color:#6a1009;">virtualenv .</span>(точка обязательна), если не установлено -&gt;&gt; Установить <span style=" font-family:'FreeMono'; color:#6a1009;">sudo</span> <span style=" font-family:'FreeMono'; color:#6a1009;">pip install virtualenv</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">4. Активируете созданное виртуальное окружение - $ <span style=" font-family:'FreeMono'; color:#6a1009;">source bin/activate</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">5. Устанавливаете django - $ <span style=" font-family:'FreeMono'; color:#6a1009;">pip install --upgrade django</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">6. Создаете проект - <span style=" font-family:'FreeMono'; color:#6a1009;">django-admin.py startproject 'имя проекта'</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">7. Переходите в папку с проектом, так как там лежит manage.py - cd 'имя проекта'</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Дальше можно делать миграции</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">8. Прописываете; python manage.py makemigrations, python manage.py migrate, python manage.py createsuperuser</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Можно запускать сервер: python manage.py runserver</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">9. Ну и создаете приложение: python manage.py startapp 'имя приложения'</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Погуглите, если работаете на виндоус, там слегка отличаются пути и команды. Но в целом процесс тот же. </p></body></html>
